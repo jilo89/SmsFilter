@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lusa.jilowa.smsfilterapp.SpamFilter">
+    <include android:id="@+id/app_bar" layout="@layout/app_bar"/>
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/activity_sub_swipe_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/accentColor"
+        >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="0dp">
+
+        <ListView android:id="@+id/list"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            />
+
+
+    </LinearLayout>
+    </FrameLayout>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

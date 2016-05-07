@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SMS-Spam-Filter</string>
+    <string name="title_activity_main">SMS</string>
+    <string name="sms_message"><![CDATA[ From : %1$s<br/>%2$s ]]></string>
+    <string name="date_message"><![CDATA[ Date : %1$s<br/>%2$s ]]></string>
+    <!--<string name="hello_world">Hello world!</string>-->
+    <string name="action_settings">Settings</string>
+    <string name="read">Inbox</string>
+    <string name="next">next</string>
+    <string name="title_activity_sub">Spam</string>
+    <string name="title_section1">INBOX</string>
+    <string name="title_section2">SPAM</string>
+    <string name="title_section3">SETTINGS</string>
+    <string name="title_section4">ABOUT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="about_">about</string>
+    <string name="about0">about</string>
+    <string name="license_">license</string>
+    <string name="author_">author</string>
+    <string name="website_">website</string>
+    <string name="app_version_name">Version 1.1</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_delete">delete</string>
+    <string name="title_about">About</string>
+
+</resources>

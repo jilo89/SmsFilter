@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView1" type="id">textView1</item>
+    <item name="read" type="id">read</item>
+    <item name="container" type="id">container</item>
+    <item name="ScrollView1" type="id">ScrollView</item>
+    <item name="linearLayout1" type="id">LinearLayout</item>
+    <item name="textView2" type="id">textView</item>
+    <item name="textView3" type="id">textView2</item>
+    <item name="textView5" type="id">textView4</item>
+    <item name="textView4" type="id">textView6</item>
+    <item name="textView6" type="id">textView8</item>
+    <item name="textView7" type="id">textView9</item>
+    <item name="textView8" type="id">textView10</item>
+    <item name="textView9" type="id">textView11</item>
+    <item name="textView10" type="id">textView12</item>
+    <item name="textView11" type="id">textView13</item>
+    <item name="textView12" type="id">textView15</item>
+    <item name="add" type="id">add</item>
+    <item name="delete" type="id">delete</item>
+    <item name="footer" type="id">footer</item>
+    <item name="navigate" type="id">navigate</item>
+</resources>
